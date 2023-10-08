@@ -1,0 +1,10 @@
+http://127.0.0.1:8000/api/   ---API END POINT
+
+
+http://127.0.0.1:8000/api/เลขไอดีหรือลำดับข้อมูล    --- Update
+
+
+http://127.0.0.1:8000/api/create    -----Create
+
+
+http://127.0.0.1:8000/api/delete/เลขไอดีหรือลำดับข้อมูล   ----Delete
