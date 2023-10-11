@@ -8,7 +8,7 @@ Convert Number to Thai Text.
 ห้ามใช้ Library อื่น ๆ ที่ต้อง import ในการทำงาน(ยกเว้น ใช้เพื่อการ test การทำงานของฟังก์ชัน).
 
 """
-
+#อิๆ
 x = input("Enter number 0-10,000,000: ")
 if int(x) <= 0 or int(x) > 10000000:
     print("Invalid value Please enter again")
